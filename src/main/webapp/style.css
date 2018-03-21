@@ -1,0 +1,244 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 12px;
+}
+
+#container {
+	width:1000px;
+	background-color:#ffffff;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#firstRow{
+	height:90px;
+	width:440px;
+    border: 1px solid;
+	padding:10px;
+	
+}
+.square{
+	height:110px;
+	width:280px;
+    border: 1px solid;
+	float:left;
+	background-color:#C0C0C0
+}
+
+#upperSection {
+	display:flex;
+}
+
+input[type="text"] {
+    width: 85%;
+    padding: 3px;
+    margin: 2px;
+    border: none;
+    border-bottom: 1px solid #C0C0C0;
+}
+
+#gingerSection{
+	background-color:#b38600;
+	border: 1px solid;
+	padding:10px;
+	font-size:11px;
+}
+
+#firstSentence{
+	text-align:right;
+	font-size:10px;
+}
+
+#secondSentence{
+	font-size:24px;
+}
+
+#thirdSentenceOne{
+	text-align: center;
+	font-size:22px;
+	padding:10px;
+	margin-left:70px;
+	margin-right:70px;
+}
+
+#thirdSentenceSecond{
+margin:auto;
+	background-color:white;
+	width:100px;
+}
+
+#text{
+	display:flex;
+}
+
+#textPart1{
+	width:500px;
+	padding: 3px;
+}
+#textPart2{
+	width:500px;
+	 padding: 3px;
+}
+
+#graySection{
+	background-color: #DADADA;
+	border: 1px solid;
+	padding:5px;
+}
+
+#selectionSection{
+	padding:5px;
+	border:1px solid;
+}
+
+#selectionSectionOne{
+	display:flex;
+}
+
+#selectionSectionTwo{
+	display:flex;
+}
+
+#selectionSectionThree{
+	display:flex;
+}
+
+#statement{
+	    border: 1px solid;
+		padding:5px;
+}
+
+#A{
+	background-color: #DADADA;
+	height:109px;
+	border:1px solid;
+
+}
+
+#placeAndGoal{
+	font-size:17px;
+	padding-left:10px;
+}
+
+#AB1{
+	background-color: white;
+	border: 1px solid;
+	width:950px;
+	float:right;
+	font-size:13px;
+}
+#AB2{
+	background-color: white;
+	border: 1px solid;
+	width:950px;
+	float:right;
+	font-size:13px;
+	
+}
+#celZeznania0{
+	display:flex;
+	padding:5px;
+	}
+
+#dataAndAddress{
+	font-size:17px;
+	padding-left:10px;
+	border: 1px solid;
+}
+
+#B1{
+	background-color: #DADADA;
+	height:213px;
+	border:1px solid;
+}
+
+#taxerData{
+	font-size:17px;
+	padding-left:10px;
+}
+
+.data{
+	display:flex;
+	width:950px;
+	float:right;
+	background-color:white;
+}
+
+.name{
+	width:300px;
+	border:1px solid;
+}
+.surrname{
+	width:300px;
+	border:1px solid;
+}
+
+.birthDate{
+	width:345px;
+	border:1px solid;
+}
+
+.country{
+	width:345px;
+	border:1px solid;
+}
+
+.voivodeship {
+	width:345px;
+	border:1px solid;
+}
+
+.county{
+	width:345px;
+	border:1px solid;
+}
+
+.townCommunity{
+	width:345px;
+	border:1px solid;
+}
+.street{
+	width:345px;
+	border:1px solid;
+}
+.houseNumber{
+	width:345px;
+	border:1px solid;
+}
+
+.flatNumber{
+	width:345px;
+	border:1px solid;
+}
+
+.city{
+	width:345px;
+	border:1px solid;
+}
+
+.zipCode{
+	width:345px;
+	border:1px solid;
+}
+.postOffice{
+	width:345px;
+	border:1px solid;
+}
+
+#B2{
+	background-color: #DADADA;
+	height:190px;
+	border:1px solid;
+}
+
+#instruction{
+	padding:5px;
+	text-align:center;
+	font-size:11px;
+}
+
+#button{
+	padding:10px;
+	float:right;
+	
+}
